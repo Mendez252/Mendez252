@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Mendez252/Mendez252** is a ✨ _special_ ✨ repository because its `README.md` 
-
 Here you have some facts about me:
 
 
