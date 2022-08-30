@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mendez252&repo=github-readme-stats)](https://github.com/Mendez252/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mendez252&repo=github-readme-stats)]
 
 ### Hi there 👋
 Here you have some facts about me:
