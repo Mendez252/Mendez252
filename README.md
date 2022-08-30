@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendez252)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mendez252&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 Here you have some facts about me:
