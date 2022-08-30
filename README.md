@@ -1,16 +1,25 @@
 ### Hi there 👋
 
 <!--
-**Mendez252/Mendez252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mendez252/Mendez252** is a ✨ _special_ ✨ repository because its `README.md` 
 
-Here are some ideas to get you started:
+Here you have some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hello everyone,
+- 🔭 I currently completed working on a ecommerce project related with musical instruments and an enterprise app made with React Native .🌱 I keep learning in different libraries for Javascript. My experience has been based mainly on Javascript, React, React Native, Redux, Node, Express, PostgreSQL. As a fullstack developer I'm able to code on both sides frontend and backend (with the technologies described above). I've been working with these technologies for about 2 years.
+
+🧦 Hobbies:
+    I love grilled meat 🥩.
+    I love jazz , focus and dark ambient music 🎷.
+    Spending time with the family 💖.
+    A glass of wine please 🍷.
+    Connect with nature (preferably forest) 🌲.
+
+
+📫 How to reach me: 
+   LinkledIn: www.linkedin.com/in/carlos-mendez-js 📰
+   Email: c.rmendez@gmail.com 📧
+  
+⚡ Fun fact:
+   I have three lovely 🐕‍🦺
